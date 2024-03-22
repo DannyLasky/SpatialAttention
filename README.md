@@ -1,4 +1,4 @@
-Code for analyzing data from Conte center spatial attention task:
+Code for analyzing data from Conte Center spatial attention task:
 
 Primary files
 * S1DurationAnalysis: Behavioral time courses and Fourier analyses for hit rate and reaction time.
